@@ -1,4 +1,4 @@
-# Start DIAL Chat with Themes and Core
+ # Start DIAL Chat with Themes and Core
 
 1. Open the `docker-compose.yml` in the project root
 2. Run it with:
